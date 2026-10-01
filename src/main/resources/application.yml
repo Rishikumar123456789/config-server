@@ -9,7 +9,7 @@ spring:
             server:
                 git:
                     uri: https://github.com/Rishikumar123456789/config-server-repo.git
-                    default-label: main
+                    default-label: master
                     clone-on-start: true
 
 eureka:
